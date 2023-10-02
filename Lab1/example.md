@@ -64,7 +64,7 @@
 </tbody>
 </table>
 
-!(max_population.png)
+###1.a ![Graphic](max_population.png)
 
 
 ### 2. Шляхом зміни рівня швидкості росту трави.
@@ -80,6 +80,6 @@
 </tbody>
 </table>
 
-!(grass.png)
+###2.a ![Graphic](grass.png)
 
 ### 3. ![Підбір значень параметрів для створення незатухаючих коливань або нестійких коливань](fig3.png)
